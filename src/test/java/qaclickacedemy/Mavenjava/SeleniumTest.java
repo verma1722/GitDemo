@@ -12,6 +12,7 @@ public class SeleniumTest {
 	public void BrowserAutomation1()
 	{
 		System.out.println("Automation1");
+		System.out.println("Automatio2");
 	}
 
 }

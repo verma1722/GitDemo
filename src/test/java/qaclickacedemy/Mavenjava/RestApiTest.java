@@ -14,6 +14,7 @@ public class RestApiTest {
 	public void Api()
 	{
 		System.out.println("Api");
+		System.out.println("Api2");
 	}
 
 }
